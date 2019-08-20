@@ -5,5 +5,6 @@ public interface RobberService {
 
     void printTheBestRobber();
 
+    // implemented code here
     void printRandomRobbers(int countOfRobbers);
 }
